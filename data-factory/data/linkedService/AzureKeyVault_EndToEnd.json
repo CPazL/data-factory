@@ -1,0 +1,10 @@
+{
+	"name": "AzureKeyVault_EndToEnd",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://almacencp-endtoend.vault.azure.net/"
+		}
+	}
+}
